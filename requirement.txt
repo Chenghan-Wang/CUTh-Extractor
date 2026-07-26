@@ -1,0 +1,9 @@
+# CUTh-Extractor uses GPU-accelerated training and inference.
+# A CUDA-capable NVIDIA GPU and a compatible CUDA driver are required.
+#
+# PyTorch (GPU)
+# Note: the official PyPI package name for PyTorch is "torch".
+
+numpy==2.4.4
+matplotlib==3.10.9
+torch==2.11.0
