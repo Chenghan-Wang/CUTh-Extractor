@@ -15,8 +15,8 @@ The model maps a pixelized RVE image (copper/dielectric distribution) to its 12 
 
 - Orthotropic Thermal Conductivity: $\kappa_x$, $\kappa_y$, $\kappa_z$
 - Orthotropic Young's Modulus: $E_x$, $E_y$, $E_z$
-- Poisson's ratio: $\nu_{xy}$, $\nu_{xz}$, $\nu_{yz}$
-- coefficient of thermal expansion: $\alpha_x$, $\alpha_y$, $\alpha_z$
+- Orthotropic Poisson's ratio: $\nu_{xy}$, $\nu_{xz}$, $\nu_{yz}$
+- Orthotropic coefficients of thermal expansion (CTEs): $\alpha_x$, $\alpha_y$, $\alpha_z$
 
 The repository includes FEM-labeled datasets for two routing layers of a real-world packaging substrate, pretrained CNN and ViT model weights, physics-based baseline methods, and corresponding scripts.
 
