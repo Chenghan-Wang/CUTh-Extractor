@@ -2,7 +2,7 @@
 
 ## Developer Information
 
-- Main Developer: Chenghan Wang, Zhen Zhuang, Siyuan Liang
+- Main Developers: Chenghan Wang, Zhen Zhuang, Siyuan Liang
 
 - Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
 
