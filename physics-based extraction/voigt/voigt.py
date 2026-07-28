@@ -6,6 +6,10 @@
 #   2. Young's modulus:       x, y, E_x, E_y, E_z
 #   3. Poisson's ratio:       x, y, nu_xy, nu_xz, nu_yz
 #   4. CTE:                   x, y, alpha_x, alpha_y, alpha_z
+#
+# Main Developers: Chenghan Wang, Zhen Zhuang, Siyuan Liang
+# Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
+# Institution: The JC STEM Lab of Intelligent Design Automation (IDEA Lab), the Chinese University of Hong Kong (CUHK).
 
 import os
 import numpy as np

@@ -7,8 +7,8 @@
 # Output: CSV file — x, y, k_x, k_y, k_z
 # Reference paper: 10.1109/TVLSI.2023.3321933
 #
-# Main Developer: Chenghan Wang
-# Email: chenghanwang@link.cuhk.edu.hk
+# Main Developers: Chenghan Wang, Zhen Zhuang, Siyuan Liang
+# Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
 # Institution: The JC STEM Lab of Intelligent Design Automation (IDEA Lab), the Chinese University of Hong Kong (CUHK).
 
 import os

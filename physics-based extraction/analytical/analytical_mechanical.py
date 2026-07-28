@@ -15,8 +15,8 @@
 #   3. alpha map: x, y, alpha_x, alpha_y, alpha_z
 # Reference paper: 10.1109/TCPMT.2022.3175953
 #
-# Main Developer: Chenghan Wang
-# Email: chenghanwang@link.cuhk.edu.hk
+# Main Developers: Chenghan Wang, Zhen Zhuang, Siyuan Liang
+# Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
 # Institution: The JC STEM Lab of Intelligent Design Automation (IDEA Lab), the Chinese University of Hong Kong (CUHK).
 
 import os

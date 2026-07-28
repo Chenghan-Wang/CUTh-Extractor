@@ -7,8 +7,8 @@ Run:
 
 Metrics, predictions, and relative-error maps are written to ViT/results/.
 
-Main Developer: Chenghan Wang
-Email: chenghanwang@link.cuhk.edu.hk
+Main Developers: Chenghan Wang, Zhen Zhuang, Siyuan Liang
+Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
 Institution: The JC STEM Lab of Intelligent Design Automation (IDEA Lab), the Chinese University of Hong Kong (CUHK).
 """
 
