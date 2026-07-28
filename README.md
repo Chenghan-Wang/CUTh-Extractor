@@ -2,9 +2,9 @@
 
 ## Developer Information
 
-- Main Developer: Chenghan Wang
+- Main Developer: Chenghan Wang, Zhen Zhaung, Siyuan Liang
 
-- Email: chenghanwang@link.cuhk.edu.hk
+- Email: chenghanwang@link.cuhk.edu.hk, zzhuang1995@gmail.com, siyuan.liang@link.cuhk.edu.hk
 
 - Institution: The JC STEM Lab of Intelligent Design Automation (IDEA Lab), the Chinese University of Hong Kong (CUHK).
 
