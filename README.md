@@ -181,7 +181,7 @@ The deep-learning evaluation additionally reports:
 - R²: coefficient of determination.
 
 All metrics are computed independently for each of the 12 target properties.
-
+ 
 ## Reproducibility Notes
 
 - The default `m1` split uses NumPy's random generator with seed `42`.
